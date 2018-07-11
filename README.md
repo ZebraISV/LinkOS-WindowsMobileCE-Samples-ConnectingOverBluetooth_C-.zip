@@ -1,8 +1,7 @@
-**IMPORTANT PLEASE READ CAREFULLY:**
-**(UNRESTRICTED SOFTWARE)** 
-##  LinkOS_SDK license ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
-<br/>
-<br/>
+# WindowsMobileCE_ConnectingOverBluetooth_C#
+###### __IMPORTANT:__ BEFORE USING PLEASE READ CAREFULLY THE ENDUSER [LICENSE_ AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+<br />
+
 
 <p float="left">
 <img width="432" height=”600” alt="screen shot 2018-07-10 at 3 26 27 pm" src="https://user-images.githubusercontent.com/41017424/42535726-c98b140a-8455-11e8-8ca7-7252f34732d2.png">
